@@ -1,0 +1,94 @@
+h1{
+       
+    text-align: center;
+    font-size: 70px;
+    font-family:Luminari;
+    color:rgb(0, 139, 206) ;
+    text-shadow: 0px 0px 20px ;
+    
+      }
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family:Luminari;
+    color: white;
+    text-shadow: 0px 0px 20px ;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-family: luminari;
+    color:rgb(0, 139, 206);
+    text-shadow: 0px 0px 10px ;
+
+  }
+h4{
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    color: black;
+    text-shadow: 
+    background-color rgb(255, 69, 0);
+    
+}
+p{
+       font-size: 25px;
+       color: white;
+       background-color:
+
+}
+h5{
+    text-align: center;
+    font-size: 50px
+    font-family: luminari;
+    color: green;
+    text-shadow: 0px 0px 10px ;
+ 
+}
+h6{
+    text-align: center;
+    font-size: 50px;
+    font-family: luminari;
+    color:rgb(0, 139, 206);
+    text-shadow: 0px 0px 10px ;
+ 
+}
+.h7{
+    text-align: center;
+    font-size: 50px;
+    font-family: luminari;
+    color:rgb(0, 139, 206);
+    text-shadow: 0px 0px 10px ;
+ 
+}
+li{
+       text-align: left;
+        font-size:20px;
+        font font-family: arial;
+        color: white;
+  }
+ body{
+     background-image: url(space.jpg);
+     background-attachment: fixed;
+     background-color: ;
+     background-size: cover;
+     }
+
+a{
+     color: white;
+}
+
+table {
+    border: solid 1px;
+    background-color:rgb(black, rgb(129, 41, 41), rgb(39, 177, 85)) ;
+    border-color: rg                  b(255, 115, 0);
+    border-radius:10px ;
+    text-align: center ;
+    width: 1450px;
+    height: 5px ;
+    position: relative;
+    right: -50px;
+    top: 20px;
+    margin-top: -30px;
+    margin-left: 22px;
+}

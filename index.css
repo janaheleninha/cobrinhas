@@ -70,7 +70,17 @@ h6{
     height: 50px;
   }
   
+
+  .dpmenu  ul{
+    list-style-type: none;
+    background-color: #ffffff;
+    padding: 0px;
+    position: absolute;
+    transition: background 0.3s;
+    text-align: left;
+   }
   
+    
 
 li{
        text-align: left;
@@ -102,3 +112,65 @@ table {
     margin-top: -30px;
     margin-left: 22px;
 }
+  
+
+
+
+
+.dpmenu a{
+    border-radius: none;
+    background-color: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .dpmenu ul li{
+    display: inline; 
+    position: relative;
+   }
+  
+   .dpmenu ul li a{
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px;
+   }
+  
+   .dpmenu ul li a:hover{
+    display: inline-block;
+    background-color: #ffffff;
+    text-decoration: underline;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+   }
+  
+  /*SUBMENU*/
+  .dpmenu  ul ul{
+    display: none;
+    left: 0px;
+    position: absolute;
+    
+   }
+  
+   .dpmenu  ul li:hover ul{
+    display: block;
+   }
+  
+   .dpmenu  ul ul {
+    width: 150px;
+    background-color: #ffffff;
+    text-align: center;
+   }
+  
+   .dpmenu  ul ul li {
+    display: block;
+    top: 0px;
+    text-align: center;
+   }
+  
+   .mariazinha{
+    width: 900px;
+   }
+  
+  

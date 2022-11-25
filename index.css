@@ -89,7 +89,7 @@ li{
         color: white;
   }
  body{
-     background-image: url(space.jpg);
+    background-color: white;
      background-attachment: fixed;
      background-size: cover;
      }

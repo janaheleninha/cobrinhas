@@ -99,7 +99,7 @@ h2::before {
 
 	.st-header{
 		position: relative;
-		background-image: url(/TCC/space2222.gif);
+		background-image: url(space2222.gif);
 		background-position: 60% 90%;
 		background-repeat: no-repeat;
 		background-size: cover;

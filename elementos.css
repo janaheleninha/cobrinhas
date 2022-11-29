@@ -1,0 +1,265 @@
+h1.fogo{
+       
+    text-align: center;
+    font-size: 70px;
+    font-family:Luminari;
+    color:red;
+    text-shadow: 0px 0px 20px ;
+    
+      }
+h2.fogo{
+    text-align: center;
+    font-size: 30px;
+    font-family:Luminari;
+    color: white;
+    text-shadow: 0px 0px 20px ;
+}
+h3.fogo{
+    text-align: center;
+    font-size: 40px;
+    font-family: luminari;
+    color:red;
+    text-shadow: 0px 0px 10px ;
+
+  }
+h4.fogo{
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    color: black;
+    text-shadow: 
+    background-color rgb(255, 69, 0);
+    
+}
+h5.fogo{
+    text-align: center;
+    font-size: 50px
+    font-family: luminari;
+    color: green;
+    text-shadow: 0px 0px 10px ;
+ 
+}
+h6.fogo{
+    text-align: center;
+    font-size: 50px;
+    font-family: luminari;
+    color:red;
+    text-shadow: 0px 0px 10px ;
+ 
+}
+h7.fogo{
+    text-align: center;
+    font-size: 50px;
+    font-family: luminari;
+    color:red;
+    text-shadow: 0px 0px 10px ;
+}
+
+h1.terra{
+       
+        text-align: center;
+        font-size: 70px;
+        font-family:Luminari;
+        color:rgb(0, 128, 0);
+        text-shadow: 0px 0px 20px ;
+        
+          }
+h2.terra{
+        text-align: center;
+        font-size: 30px;
+        font-family:Luminari;
+        color: white;
+        text-shadow: 0px 0px 20px ;
+    }
+h3.terra{
+        text-align: center;
+        font-size: 40px;
+        font-family: luminari;
+        color:rgb(0, 128, 0);
+        text-shadow: 0px 0px 10px ;
+    
+      }
+h4.terra{
+        text-align: center;
+        font-size: 20px;
+        font-family: arial;
+        color: black;
+        text-shadow: 
+        background-color rgb(255, 69, 0);
+        
+    }
+h5.terra{
+        text-align: center;
+        font-size: 50px
+        font-family: luminari;
+        color: green;
+        text-shadow: 0px 0px 10px ;
+     
+    }
+h6.terra{
+        text-align: center;
+        font-size: 50px;
+        font-family: luminari;
+        color:rgb(0, 128, 0);
+        text-shadow: 0px 0px 10px ;
+     
+    }
+h7.terra{
+        text-align: center;
+        font-size: 50px;
+        font-family: luminari;
+        color:rgb(0, 128, 0);
+        text-shadow: 0px 0px 10px ;
+    }
+h1.ar{
+       
+            text-align: center;
+            font-size: 70px;
+            font-family:Luminari;
+            color:rgb(255, 69, 0);
+            text-shadow: 0px 0px 20px ;
+            
+              }
+h2.ar{
+            text-align: center;
+            font-size: 30px;
+            font-family:Luminari;
+            color: white;
+            text-shadow: 0px 0px 20px ;
+        }
+h3.ar{
+            text-align: center;
+            font-size: 40px;
+            font-family: luminari;
+            color:rgb(255, 69, 0);
+            text-shadow: 0px 0px 10px ;
+        
+          }
+h4.ar{
+            text-align: center;
+            font-size: 20px;
+            font-family: arial;
+            color: black;
+            text-shadow: 
+            background-color rgb(255, 69, 0);
+            
+        }
+h5.ar{
+            text-align: center;
+            font-size: 50px
+            font-family: luminari;
+            color: green;
+            text-shadow: 0px 0px 10px ;
+         
+        }
+h6.ar{
+            text-align: center;
+            font-size: 50px;
+            font-family: luminari;
+            color:rgb(255, 69, 0);
+            text-shadow: 0px 0px 10px ;
+         
+        }
+h7.ar{
+            text-align: center;
+            font-size: 50px;
+            font-family: luminari;
+            color:rgb(255, 69, 0);
+            text-shadow: 0px 0px 10px ;
+        }    
+
+h1.agua{
+       
+            text-align: center;
+            font-size: 70px;
+            font-family:Luminari;
+            color:rgb(0, 139, 206);
+            text-shadow: 0px 0px 20px ;
+            
+              }
+h2.agua{
+            text-align: center;
+            font-size: 30px;
+            font-family:Luminari;
+            color: white;
+            text-shadow: 0px 0px 20px ;
+        }
+h3.agua{
+            text-align: center;
+            font-size: 40px;
+            font-family: luminari;
+            color:rgb(0, 139, 206);
+            text-shadow: 0px 0px 10px ;
+        
+          }
+h4.agua{
+            text-align: center;
+            font-size: 20px;
+            font-family: arial;
+            color: black;
+            text-shadow: 
+            background-color rgb(255, 69, 0);
+            
+        }
+h5.agua{
+            text-align: center;
+            font-size: 50px
+            font-family: luminari;
+            color: green;
+            text-shadow: 0px 0px 10px ;
+         
+        }
+h6.agua{
+            text-align: center;
+            font-size: 50px;
+            font-family: luminari;
+            color:rgb(0, 139, 206);
+            text-shadow: 0px 0px 10px ;
+         
+        }
+h7.agua{
+            text-align: center;
+            font-size: 50px;
+            font-family: luminari;
+            color:rgb(0, 139, 206);
+            text-shadow: 0px 0px 10px ;
+        }
+p{
+       text-align: justify;
+       font-size: 25px;
+       color: white;
+       background-color:
+
+}
+
+li{
+       text-align: left;
+        font-size:20px;
+        font font-family: arial;
+        color: white;
+  }
+ body{
+     background-image: url(space.jpg);
+     background-attachment: fixed;
+     background-color: ;
+     background-size: cover;
+     }
+
+a{
+     color: white;
+}
+
+table {
+    border: solid 1px;
+    background-color:rgb(black, rgb(129, 41, 41), rgb(39, 177, 85)) ;
+    border-color: rg                  b(255, 115, 0);
+    border-radius:10px ;
+    text-align: center ;
+    width: 1450px;
+    height: 5px ;
+    position: relative;
+    right: -50px;
+    top: 20px;
+    margin-top: -30px;
+    margin-left: 22px;
+}

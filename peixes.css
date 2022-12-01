@@ -27,21 +27,22 @@ h4{
     font-size: 20px;
     font-family: arial;
     color: black;
-    text-shadow: 
-    background-color rgb(255, 69, 0);
+    text-shadow: ;
+    background-color: rgb(255, 69, 0);
     
 }
 p{
        font-size: 25px;
        font-family: luminari;
        color: white;
-       background-color:
+       background-color:;
+       width: 450px;
        
 
 }
 h5{
     text-align: center;
-    font-size: 50px
+    font-size: 50px;
     font-family: luminari;
     color: green;
     text-shadow: 0px 0px 10px ;
@@ -66,7 +67,7 @@ h6{
 li{
        text-align: left;
         font-size:20px;
-        font font-family: arial;
+        font-family: arial;
         color: white;
   }
  body{
@@ -83,7 +84,7 @@ a{
 table {
     border: solid 1px;
     background-color:rgb(black, rgb(129, 41, 41), rgb(39, 177, 85)) ;
-    border-color: rg                  b(255, 115, 0);
+    border-color: rgb(255, 115, 0);
     border-radius:10px ;
     text-align: center ;
     width: 1450px;
